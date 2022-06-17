@@ -4,8 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-[# denotes equal contribution, * denotes corresponding author]
-
 ---
 ## 2022
 
