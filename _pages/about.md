@@ -25,4 +25,5 @@ News
 ======
 
 ***6/2022***, one paper got accepted by **ECML 2022** (link - [here]()).
+
 ***5/2022***, one paper got accepted by **UAI 2022** (link - [here](https://openreview.net/forum?id=HeZlJPLoqgq)).
