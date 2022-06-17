@@ -43,7 +43,7 @@ Yulong Pei, <b>Tianjin Huang</b>, Werner van Ipenburg, Mykola Pechenizkiy. <i>Jo
 ## 2017
 
 * <b>A new method to estimate changes in glacier surface elevation based on polynomial fitting of sparse ICESat—GLAS footprints</b>. <br>
-<b>Tianjin Huang<\b>, Li Jia, Massimo Menenti, Jing Lu, Jie Zhou, Guangcheng Hu. <i>Journal: Sensors 17(8),1803 </i>.<br>
+<b>Tianjin Huang</b>, Li Jia, Massimo Menenti, Jing Lu, Jie Zhou, Guangcheng Hu. <i>Journal: Sensors 17(8),1803 </i>.<br>
 [PDF](https://www.mdpi.com/1424-8220/17/8/1803)
 
   
