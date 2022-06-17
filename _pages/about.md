@@ -13,7 +13,7 @@ Hi, I am a Ph.D. candidate of machine learning in the data mining group at the E
 Netherlands, under the supervision of [Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [Vlado Menkovski](https://www.tue.nl/en/research/researchers/vlado-menkovski/). 
 
 # Research
-My research interests lie in machine learning, deep learning, adversarial robustenss, adversarial attacks, graph neural networks, Efficient machine learning
+My research interests lie in machine learning, deep learning, adversarial robustenss, adversarial attacks, graph neural networks, Efficient machine learning.
 
 Education
 ======
