@@ -48,7 +48,7 @@ Yulong Pei, <b>Tianjin Huang</b>, Werner van Ipenburg, Mykola Pechenizkiy. <i>Jo
 
   
 * <b>青藏高原地区湖泊面积插补迭代自动提取</b>. <br>
-  <b>黄田进</b>， 梁丁丁， 贾立， 张静潇， 卢静， 周杰. <i> 遥感技术与应用 32(2),289-298 </i>.<br>
+  黄田进， 梁丁丁， 贾立， 张静潇， 卢静， 周杰. <i> 遥感技术与应用 32(2),289-298 </i>.<br>
 [PDF](http://www.cqvip.com/qk/96858x/201702/672125365.html)
 
   
