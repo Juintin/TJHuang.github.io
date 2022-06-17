@@ -18,7 +18,7 @@ My research interests lie in machine learning, deep learning, adversarial robust
 Education
 ======
 * B.S., Northwest University, 2010-2014.
-* Master, Inistitute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, 2014-2017.
+* M.S., Inistitute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, 2014-2017.
 * Ph.D, Eindhoven University of Technology, 2018-present.
 
 News
