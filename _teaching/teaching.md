@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching & Supervision"
-permalink: /teaching/teaching
+permalink: /teaching
 author_profile: true
 ---
 
