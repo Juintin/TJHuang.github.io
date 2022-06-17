@@ -21,6 +21,11 @@ Education
 * M.S., Inistitute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, 2014-2017.
 * Ph.D, Eindhoven University of Technology, 2018-present.
 
+Activaties
+======
+* Conference Review: ICML 2022, NIPS 2022, ECML 2022.
+* Journal Review: IEEE Transactions on Industrial Informatics, Wireless Communications and Mobile Computing.
+
 News
 ======
 
