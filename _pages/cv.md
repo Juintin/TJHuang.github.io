@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[English CV [PDF]](https://tienjinhuang.github.io/files/CV-english.pdf)
+[English CV [PDF]](https://tienjinhuang.github.io/files/CV-English.pdf)
 
 
 # Contact
