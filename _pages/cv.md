@@ -7,9 +7,8 @@ redirect_from:
   - /resume
 ---
 
-[English CV [PDF]]()
+[English CV [PDF]](https://tienjinhuang.github.io/files/CV-english.pdf)
 
-[Chinese CV [PDF]]()
 
 # Contact
 MetaForum 7.149, Eindhoven University of Technology, the Netherlands<br>
