@@ -28,7 +28,10 @@ Activaties
 
 News
 ======
+***11/2022***, one paper got accepted by **LoG 2022**, **Splotlight, Best Paper Award**  (link - [here]([https://arxiv.org/abs/2208.10842](https://openreview.net/forum?id=dF6aEW3_62O))). 
 
-***6/2022***, one paper got accepted by **ECML 2022** (link - [here]()).
+***11/2022***, one paper got accepted by **AAAI 2023** (link - [here](https://arxiv.org/abs/2208.10842)). 
+
+***6/2022***, one paper got accepted by **ECML 2022** (link - [here](https://arxiv.org/abs/2104.07917)).
 
 ***5/2022***, one paper got accepted by **UAI 2022** (link - [here](https://openreview.net/forum?id=HeZlJPLoqgq)).
