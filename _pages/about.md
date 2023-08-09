@@ -9,17 +9,23 @@ redirect_from:
 ---
 
 
-Hi, I am a Ph.D. candidate of machine learning in the data mining group at the Eindhoven University of Technology (TU/e), the
-Netherlands, under the supervision of [Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [Vlado Menkovski](https://www.tue.nl/en/research/researchers/vlado-menkovski/). 
+Hi, I am a postdoctoral researcher in AI Cluster at the Eindhoven University of Technology (TU/e), the
+Netherlands, under the supervision of [Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/).  I obtained my Ph.D at the Eindhoven University of Technology (TU/e), the Netherlands, under the supervision of Mykola Pechenizkiy, Vlado Menkovski, and Yulong Pei. 
+
+<span style='color:red'> I'm on the job market and looking for full-time research positions.
 
 # Research
-My research interests lie in machine learning, deep learning, adversarial robustenss, adversarial attacks, graph neural networks, Efficient machine learning.
+My research interests lie in Trustworthy AI,  Adversarial Robustness, Adversarial Attacks, Graph Neural Networks, and Efficient AI.
 
 Education
 ======
 * B.S., Northwest University, 2010-2014.
 * M.S., Inistitute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, 2014-2017.
-* Ph.D, Eindhoven University of Technology, 2018-present.
+* Ph.D, Eindhoven University of Technology, 2018.8-2023.2
+
+Education
+======
+* PostDoc, Eindhoven University of Technology, 2022.10-Current. 
 
 Activaties
 ======
