@@ -22,9 +22,6 @@ Education
 * B.S., Northwest University, 2010-2014.
 * M.S., Inistitute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, 2014-2017.
 * Ph.D, Eindhoven University of Technology, 2018.8-2023.2
-
-Education
-======
 * PostDoc, Eindhoven University of Technology, 2022.10-Current. 
 
 Activaties
