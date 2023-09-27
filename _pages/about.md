@@ -34,13 +34,15 @@ Activaties
 
 News
 ======
-***6/2023***, one paper got accepted by **ECML 2023**. 
+***9/2023***, one paper got accepted by **NeurIPS 2023**. [here](https://arxiv.org/abs/2305.19454).
+
+***6/2023***, one paper got accepted by **ECML 2023**. [here](https://link.springer.com/chapter/10.1007/978-3-031-43412-9_7).
 
 ***4/2023***, one paper got accepted by **ICML 2023**. [Link here](https://arxiv.org/abs/2305.19412)
 
 ***1/2023***, one paper got accepted by **ICLR 2023**, **Oral**. [Link here](https://openreview.net/forum?id=J6F3lLg4Kdp)
 
-***11/2022***, one paper got accepted by **LoG 2022**, **Spotlight, Best Paper Award**. [Link here](https://arxiv.org/abs/2208.10842)
+***11/2022***, one paper got accepted by **LoG 2022**, **Spotlight, Best Paper Award**. [Link here](https://arxiv.org/abs/2211.15335)
 
 ***11/2022***, one paper got accepted by **AAAI 2023** (link - [here](https://arxiv.org/abs/2208.10842)). 
 
