@@ -19,15 +19,15 @@ My research interests lie in Trustworthy AI,  Adversarial Robustness, Adversaria
 
 News
 ======
-***9/2023***, one paper got accepted by **NeurIPS 2023**. [here](https://arxiv.org/abs/2305.19454).
+***9/2023***, one paper got accepted by **NeurIPS 2023**. [Channel-DST](https://arxiv.org/abs/2305.19454).
 
-***6/2023***, one paper got accepted by **ECML 2023**. [here](https://link.springer.com/chapter/10.1007/978-3-031-43412-9_7).
+***6/2023***, one paper got accepted by **ECML 2023**. [Enhancing AT via Refining Optimization trajectories](https://link.springer.com/chapter/10.1007/978-3-031-43412-9_7).
 
-***4/2023***, one paper got accepted by **ICML 2023**. [Link here](https://arxiv.org/abs/2305.19412)
+***4/2023***, one paper got accepted by **ICML 2023**. [Larger Kernel Serve better Teachers than Transformers](https://arxiv.org/abs/2305.19412)
 
 ***1/2023***, one paper got accepted by **ICLR 2023**, **Oral**. [Link here](https://openreview.net/forum?id=J6F3lLg4Kdp)
 
-***11/2022***, one paper got accepted by **LoG 2022**, **Spotlight, Best Paper Award**. [Link here](https://arxiv.org/abs/2211.15335)
+***11/2022***, one paper got accepted by **LoG 2022**, **Spotlight, Best Paper Award**. [You can have better GNN by finding graph tickts](https://arxiv.org/abs/2211.15335)
 
 ***11/2022***, one paper got accepted by **AAAI 2023** (link - [here](https://arxiv.org/abs/2208.10842)). 
 
@@ -46,3 +46,7 @@ Activaties
 ======
 * Conference Review: ICML 2022, NIPS 2022, ECML 2022, UAI 2023, ECML 2023, NIPS 2023, ICML 2023
 * Journal Review: IEEE Transactions on Industrial Informatics, Wireless Communications and Mobile Computing.
+
+Honors and Awards  
+======
+🏆 Best Paper Award, Learning on Graphs Conference (LoG 2022)
