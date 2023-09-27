@@ -17,18 +17,6 @@ Netherlands, under the supervision of [Mykola Pechenizkiy](https://www.win.tue.n
 # Research
 My research interests lie in Trustworthy AI,  Adversarial Robustness, Adversarial Attacks, Graph Neural Networks, and Efficient AI.
 
-Education
-======
-* B.S., Northwest University, 2010-2014.
-* M.S., Inistitute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, 2014-2017.
-* Ph.D, Eindhoven University of Technology, 2018.8-2023.2
-* PostDoc, Eindhoven University of Technology, 2022.10-Current. 
-
-Activaties
-======
-* Conference Review: ICML 2022, NIPS 2022, ECML 2022, UAI 2023, ECML 2023, NIPS 2023, ICML 2023
-* Journal Review: IEEE Transactions on Industrial Informatics, Wireless Communications and Mobile Computing.
-
 News
 ======
 ***9/2023***, one paper got accepted by **NeurIPS 2023**. [here](https://arxiv.org/abs/2305.19454).
@@ -46,3 +34,16 @@ News
 ***6/2022***, one paper got accepted by **ECML 2022** (link - [here](https://arxiv.org/abs/2104.07917)).
 
 ***5/2022***, one paper got accepted by **UAI 2022** (link - [here](https://openreview.net/forum?id=HeZlJPLoqgq)).
+
+Education
+======
+* B.S., Northwest University, 2010-2014.
+* M.S., Inistitute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, 2014-2017.
+* Ph.D, Eindhoven University of Technology, 2018.8-2023.2
+* PostDoc, Eindhoven University of Technology, 2022.10-Current. 
+
+Activaties
+======
+* Conference Review: ICML 2022, NIPS 2022, ECML 2022, UAI 2023, ECML 2023, NIPS 2023, ICML 2023
+* Journal Review: IEEE Transactions on Industrial Informatics, Wireless Communications and Mobile Computing.
+  
