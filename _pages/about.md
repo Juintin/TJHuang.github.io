@@ -19,6 +19,8 @@ My research interests lie in Trustworthy AI,  Adversarial Robustness, Adversaria
 
 News
 ======
+***9/2023***, one paper got accepted by **Complex Networks**. [Heterophily-Based Graph Neural Network for Imbalanced Classification]
+
 ***9/2023***, one paper got accepted by **NeurIPS 2023**. [Channel-DST](https://arxiv.org/abs/2305.19454).
 
 ***6/2023***, one paper got accepted by **ECML 2023**. [Enhancing AT via Refining Optimization trajectories](https://link.springer.com/chapter/10.1007/978-3-031-43412-9_7).
