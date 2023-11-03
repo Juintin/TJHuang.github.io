@@ -29,15 +29,15 @@ News
 
 ***4/2023***, one paper got accepted by **ICML 2023**. [Larger Kernel Serve better Teachers than Transformers](https://arxiv.org/abs/2305.19412)
 
-***1/2023***, one paper got accepted by **ICLR 2023**, **Oral**. [Link here](https://openreview.net/forum?id=J6F3lLg4Kdp)
+***1/2023***, one paper got accepted by **ICLR 2023**, **Oral**. [Sparsity May Cry: Let Us Fail (Current) Sparse Neural Networks Together!](https://openreview.net/forum?id=J6F3lLg4Kdp)
 
 ***11/2022***, one paper got accepted by **LoG 2022**, **Spotlight, Best Paper Award**. [You can have better GNN by finding graph tickts](https://arxiv.org/abs/2211.15335)
 
-***11/2022***, one paper got accepted by **AAAI 2023** (link - [here](https://arxiv.org/abs/2208.10842)). 
+***11/2022***, one paper got accepted by **AAAI 2023** (link - [Lottery Pools: Winning More by Interpolating Tickets without Increasing Training or Inference Cost](https://arxiv.org/abs/2208.10842)). 
 
-***6/2022***, one paper got accepted by **ECML 2022** (link - [here](https://arxiv.org/abs/2104.07917)).
+***6/2022***, one paper got accepted by **ECML 2022** (link - [Hop-count based self-supervised anomaly detection on attributed networks](https://arxiv.org/abs/2104.07917)).
 
-***5/2022***, one paper got accepted by **UAI 2022** (link - [here](https://openreview.net/forum?id=HeZlJPLoqgq)).
+***5/2022***, one paper got accepted by **UAI 2022** (link - [Superposing Many Tickets into One: A Performance Booster for Sparse Neural Network Training](https://openreview.net/forum?id=HeZlJPLoqgq)).
 
 Education
 ======
