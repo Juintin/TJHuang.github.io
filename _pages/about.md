@@ -19,7 +19,7 @@ My research interests lie in Trustworthy AI,  Adversarial Robustness, Adversaria
 
 News
 ======
-***10/2023***, one paper got accepted by **Information Fusion, IF=18.6**. [RT-GCN: Gaussian-based spatiotemporal graph convolutional network for robust traffic prediction] (https://www.sciencedirect.com/science/article/pii/S1566253523003949)
+***10/2023***, one paper got accepted by **Information Fusion, IF=18.6**. [RT-GCN: Gaussian-based spatiotemporal graph convolutional network for robust traffic prediction](https://www.sciencedirect.com/science/article/pii/S1566253523003949)
 
 ***9/2023***, one paper got accepted by **Complex Networks**. [Heterophily-Based Graph Neural Network for Imbalanced Classification](https://arxiv.org/abs/2310.08725)
 
