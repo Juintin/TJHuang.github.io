@@ -10,7 +10,7 @@ redirect_from:
 
 
 Hi, I am a postdoctoral researcher in AI Cluster at the Eindhoven University of Technology (TU/e), the
-Netherlands, under the supervision of [Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/).  I obtained my Ph.D at the Eindhoven University of Technology (TU/e), the Netherlands, under the supervision of Mykola Pechenizkiy, Vlado Menkovski, and Yulong Pei. 
+Netherlands, under the supervision of [Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/).  I obtained my Ph.D. at the Eindhoven University of Technology (TU/e), the Netherlands, under the supervision of Mykola Pechenizkiy, Vlado Menkovski, and Yulong Pei. 
 
 <span style='color:red'> I'm on the job market and looking for full-time research positions.
 
